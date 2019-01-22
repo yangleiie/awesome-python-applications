@@ -1,4 +1,4 @@
-# Awesome Python Applications - By Platform
+# Awesome Python Applications - By Platform！！！！！
 
 The same Awesome Python Applications you know and love, but arranged
 by *platform*. This list is for the app-happy reader looking to install
